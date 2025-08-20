@@ -1,3 +1,9 @@
+<p align="center">
+  <a title="Teracloud Streams" href="https://streams.teracloud.com">
+    <img src="./teracloud-streams.png" alt="Teracloud Streams" height="128" width="128" />
+  </a>
+</p>
+
 # Teracloud Streams VS Code Extension – Issues & Documentation
 
 This repository is dedicated to **issue tracking and documentation** for the official [Teracloud Streams VS Code extension](https://marketplace.visualstudio.com/items?itemName=teracloud-aps.teracloud-streams).
