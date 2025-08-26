@@ -50,6 +50,6 @@ Once inside the container:
 
 ## 🔗 Resources
 - [Teracloud Streams Official Website](https://streams.teracloud.com)  
-- [Teracloud Streams Documentation Website]((https://doc.streams.teracloud.com)
+- [Teracloud Streams Documentation Website](https://doc.streams.teracloud.com)
 
 ✍️ Thanks for helping us improve the Teracloud Streams developer experience!
